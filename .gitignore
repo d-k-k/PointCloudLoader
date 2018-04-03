@@ -28,3 +28,6 @@ sysinfo.txt
 
 # Builds
 *.apk
+
+# Mac specific
+.DS_Store
